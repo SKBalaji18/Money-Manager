@@ -1,0 +1,27 @@
+.history-items {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  border-top: 1px solid #cbd5e1;
+  width: 100%;
+}
+
+.history-item-cell {
+  width: 30%;
+  margin-right: 15px;
+  padding: 15px 7px;
+}
+
+.button-container {
+  width: 10%;
+}
+
+.icon {
+  height: 25px;
+  width: 25px;
+}
+
+.icon-button {
+  background-color: transparent;
+  border: 0px;
+}
